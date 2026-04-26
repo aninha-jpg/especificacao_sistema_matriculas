@@ -10,8 +10,9 @@ O objetivo deste sistema é automatizar o processo de inscrição de alunos em d
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Modelagem:** Excel, Draw.io e Figma.
-* **Ambiente:** Ubuntu Linux
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
